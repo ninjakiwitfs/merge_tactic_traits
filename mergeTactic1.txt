@@ -1,3 +1,4 @@
+      troop1,      troop2,      troop3,      troop4,      troop5,      troop6,->,      trait1,      trait2,      trait3,      trait4,      trait5,      trait6
       knight,      archer,     goblins,    valkyrie, dart_goblin, gold_knight,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,  assassin 1
       knight,      archer,  spear_gobs,   musketeer,    valkyrie, dart_goblin,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,   blaster 1
       knight,      archer,  barbarians,  skele_drag,      prince,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1

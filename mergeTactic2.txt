@@ -1,3 +1,4 @@
+      troop1,      troop2,      troop3,      troop4,      troop5,      troop6,->,      trait1,      trait2,      trait3,      trait4
       knight,      archer,  barbarians,   musketeer,      prince,    princess,->,     noble 2,    ranger 1,      clan 1,   brawler 1
       knight,      archer,  barbarians,    valkyrie,      prince, archr_queen,->,      clan 2,     noble 1,juggernaut 1,   brawler 1
       knight,      archer,  barbarians,    valkyrie,    princess, archr_queen,->,      clan 2,    ranger 1,     noble 1,juggernaut 1

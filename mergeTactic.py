@@ -1,12 +1,12 @@
 import itertools
 from collections import defaultdict
 
-OUTPUT_FILE_NAME = "./mergeTactic2.txt"
+OUTPUT_FILE_NAME = "./mergeTacticMixed.txt"
 # tier scoring system
 # setting tiers to [1,1,X] gives only 6 tier 1s
 # setting tiers to [1,3,X] gives mix of 6 tier 1s and tier 2 + 3 tier 1s
 # setting tiers to [1,4,X] gives only tier 2 + 3 tier 1s
-TIER_SCORES = [1, 4, 9]  # 1st, 2nd, 3rd
+TIER_SCORES = [1, 3, 9]  # 1st, 2nd, 3rd
 NUM_CHARACTERS = 6
 
 # Origin
@@ -78,7 +78,7 @@ CHARACTERS = {
 }
 
 
-def score_team(team, CHARACTERS, LEVELS):
+def score_team(team, CHARACTERS, LEVELS) -> tuple[int, list[str]]:
     counts = {}
     for char in team:
         for trait in CHARACTERS[char]:
@@ -120,6 +120,7 @@ print("=" * 150)
 all_chars = list(CHARACTERS.keys())
 best_teams = []
 curr_score = 0
+num_traits = 0
 counter = defaultdict(int)
 
 for combo in itertools.combinations(all_chars, NUM_CHARACTERS):
@@ -128,14 +129,22 @@ for combo in itertools.combinations(all_chars, NUM_CHARACTERS):
         best_teams.clear()
         curr_score = s
         best_teams.append((s, combo, fulfilled))
+        num_traits = len(fulfilled)
     elif s == curr_score:
+        num_traits = max(num_traits, len(fulfilled))
         best_teams.append((s, combo, fulfilled))
 
 # Print all tied top teams
 with open(OUTPUT_FILE_NAME, "w") as f:
+    header_left = [f"{"troop" + str(i+1):>12}" for i in range(NUM_CHARACTERS)]
+    header_right = [f"{"trait" + str(i+1):>12}" for i in range(num_traits)]
+    header = f"{",".join(header_left)},->,{",".join(header_right)}"
+    f.write(header + "\n")
     for score, team, fulfilled in best_teams:
         for char in team:
             counter[char] += 1
+        while len(fulfilled)<num_traits:
+            fulfilled.append("NULL")
         team = ",".join(f"{char:>12}" for char in team)
         fulfilled = ",".join(f"{trait:>12}" for trait in fulfilled)
         f.write(f"{team},->,{fulfilled}\n")
