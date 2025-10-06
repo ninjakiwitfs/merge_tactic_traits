@@ -1,0 +1,135 @@
+      knight,      archer,     goblins,    valkyrie, dart_goblin, gold_knight,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,  assassin 1
+      knight,      archer,  spear_gobs,   musketeer,    valkyrie, dart_goblin,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,   blaster 1
+      knight,      archer,  barbarians,  skele_drag,      prince,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+      knight,      archer,  barbarians,      prince, dart_goblin, gob_machine,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1
+      knight,      archer,  barbarians, giant_skele,    princess,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+      knight,      archer,  skele_drag,    valkyrie,      prince, giant_skele,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+      knight,      archer,  skele_drag,    valkyrie, royal_ghost, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,  assassin 1
+      knight,      archer,       witch,    princess,  skele_king, archr_queen,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   avenger 1
+      knight,     goblins,  spear_gobs,   musketeer, royal_ghost,  skele_king,->,    undead 1,     noble 1,juggernaut 1,    goblin 1,   blaster 1,  assassin 1
+      knight,     goblins,  skele_drag, dart_goblin,  skele_king, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
+      knight,     goblins,  skele_drag,    princess, royal_ghost, gob_machine,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
+      knight,     goblins,   musketeer, executioner,      bandit, gob_machine,->,     noble 1,juggernaut 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+      knight,     goblins,      prince, giant_skele, royal_ghost, gob_machine,->,    undead 1,     noble 1,juggernaut 1,    goblin 1,   brawler 1,  assassin 1
+      knight,     goblins,      prince, mega_knight,      bandit, gob_machine,->,     noble 1,juggernaut 1,    goblin 1,   brawler 1,  assassin 1,       ace 1
+      knight,     goblins, dart_goblin,    princess, royal_ghost,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
+      knight,  spear_gobs,  skele_drag,   musketeer, dart_goblin,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,   blaster 1
+      knight,  spear_gobs,      prince, executioner, mega_knight, gob_machine,->,     noble 1,juggernaut 1,    goblin 1,   brawler 1,   blaster 1,       ace 1
+      knight,  spear_gobs, executioner,      bandit, gob_machine, gold_knight,->,     noble 1,juggernaut 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+      knight,  barbarians,  skele_drag,    valkyrie, giant_skele,    princess,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+      knight,  barbarians,   musketeer,    valkyrie, executioner, mega_knight,->,     noble 1,juggernaut 1,      clan 1,   brawler 1,   blaster 1,       ace 1
+      knight,  barbarians,    valkyrie, giant_skele, royal_ghost, gold_knight,->,    undead 1,     noble 1,juggernaut 1,      clan 1,   brawler 1,  assassin 1
+      knight,  barbarians,    valkyrie, mega_knight,      bandit, gold_knight,->,     noble 1,juggernaut 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+      knight,  barbarians,      prince,       witch,  skele_king, archr_queen,->,    undead 1,     noble 1,juggernaut 1,      clan 1,   brawler 1,   avenger 1
+      knight,  skele_drag,    valkyrie,       witch,    princess, archr_queen,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   avenger 1
+      knight,  skele_drag,      prince, giant_skele, dart_goblin, gob_machine,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,   brawler 1
+      knight,  skele_drag, dart_goblin, royal_ghost, gob_machine, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
+      knight,   musketeer,    valkyrie,       pekka, executioner, archr_queen,->,     noble 1,juggernaut 1,      clan 1,   blaster 1,   avenger 1,       ace 1
+      knight,   musketeer,       pekka, executioner,       witch,  skele_king,->,    undead 1,     noble 1,juggernaut 1,   blaster 1,   avenger 1,       ace 1
+      knight,   musketeer, giant_skele, executioner, mega_knight,  skele_king,->,    undead 1,     noble 1,juggernaut 1,   brawler 1,   blaster 1,       ace 1
+      knight,   musketeer, executioner, royal_ghost,      bandit,  skele_king,->,    undead 1,     noble 1,juggernaut 1,   blaster 1,  assassin 1,       ace 1
+      knight,    valkyrie,       pekka,      prince, mega_knight, archr_queen,->,     noble 1,juggernaut 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+      knight,    valkyrie,       pekka,      bandit, gold_knight, archr_queen,->,     noble 1,juggernaut 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+      knight,    valkyrie,      prince, giant_skele,       witch, archr_queen,->,    undead 1,     noble 1,juggernaut 1,      clan 1,   brawler 1,   avenger 1
+      knight,    valkyrie,       witch, royal_ghost, gold_knight, archr_queen,->,    undead 1,     noble 1,juggernaut 1,      clan 1,   avenger 1,  assassin 1
+      knight,       pekka,      prince,       witch, mega_knight,  skele_king,->,    undead 1,     noble 1,juggernaut 1,   brawler 1,   avenger 1,       ace 1
+      knight,       pekka,       witch,      bandit,  skele_king, gold_knight,->,    undead 1,     noble 1,juggernaut 1,   avenger 1,  assassin 1,       ace 1
+      knight,      prince, mega_knight, royal_ghost,      bandit,  skele_king,->,    undead 1,     noble 1,juggernaut 1,   brawler 1,  assassin 1,       ace 1
+      knight, giant_skele, mega_knight,      bandit,  skele_king, gold_knight,->,    undead 1,     noble 1,juggernaut 1,   brawler 1,  assassin 1,       ace 1
+      archer,     goblins,  barbarians,      prince, dart_goblin, gold_knight,->,    ranger 1,     noble 1,    goblin 1,      clan 1,   brawler 1,  assassin 1
+      archer,     goblins,  barbarians, giant_skele, dart_goblin, royal_ghost,->,    undead 1,    ranger 1,    goblin 1,      clan 1,   brawler 1,  assassin 1
+      archer,     goblins,  barbarians, dart_goblin, mega_knight,      bandit,->,    ranger 1,    goblin 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+      archer,     goblins,  skele_drag,    valkyrie, royal_ghost, gob_machine,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,  assassin 1
+      archer,     goblins,    valkyrie, dart_goblin, royal_ghost,  skele_king,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,  assassin 1
+      archer,     goblins,    valkyrie,    princess, gob_machine, gold_knight,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,  assassin 1
+      archer,     goblins,       pekka, dart_goblin,      bandit, archr_queen,->,    ranger 1,    goblin 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+      archer,     goblins, dart_goblin,       witch, royal_ghost, archr_queen,->,    undead 1,    ranger 1,    goblin 1,      clan 1,   avenger 1,  assassin 1
+      archer,  spear_gobs,  barbarians,   musketeer,      prince, dart_goblin,->,    ranger 1,     noble 1,    goblin 1,      clan 1,   brawler 1,   blaster 1
+      archer,  spear_gobs,  barbarians, dart_goblin, executioner, mega_knight,->,    ranger 1,    goblin 1,      clan 1,   brawler 1,   blaster 1,       ace 1
+      archer,  spear_gobs,   musketeer,    valkyrie,    princess, gob_machine,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,   blaster 1
+      archer,  spear_gobs,       pekka, dart_goblin, executioner, archr_queen,->,    ranger 1,    goblin 1,      clan 1,   blaster 1,   avenger 1,       ace 1
+      archer,  barbarians,  skele_drag,       pekka,       witch, mega_knight,->,    undead 1,    ranger 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+      archer,  barbarians,  skele_drag,      prince, royal_ghost, gold_knight,->,    undead 1,    ranger 1,     noble 1,      clan 1,   brawler 1,  assassin 1
+      archer,  barbarians,  skele_drag, mega_knight, royal_ghost,      bandit,->,    undead 1,    ranger 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+      archer,  barbarians,   musketeer, executioner,    princess, mega_knight,->,    ranger 1,     noble 1,      clan 1,   brawler 1,   blaster 1,       ace 1
+      archer,  barbarians, giant_skele, dart_goblin, gob_machine,  skele_king,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1
+      archer,  barbarians, giant_skele,    princess, royal_ghost, gold_knight,->,    undead 1,    ranger 1,     noble 1,      clan 1,   brawler 1,  assassin 1
+      archer,  barbarians,    princess, mega_knight,      bandit, gold_knight,->,    ranger 1,     noble 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+      archer,  skele_drag,       pekka, giant_skele, mega_knight, archr_queen,->,    undead 1,    ranger 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+      archer,  skele_drag,       pekka, royal_ghost,      bandit, archr_queen,->,    undead 1,    ranger 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+      archer,   musketeer,       pekka, executioner,    princess, archr_queen,->,    ranger 1,     noble 1,      clan 1,   blaster 1,   avenger 1,       ace 1
+      archer,    valkyrie,      prince, giant_skele,    princess,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+      archer,    valkyrie,    princess, royal_ghost,  skele_king, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,  assassin 1
+      archer,       pekka,      prince,    princess, mega_knight, archr_queen,->,    ranger 1,     noble 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+      archer,       pekka,    princess,      bandit, gold_knight, archr_queen,->,    ranger 1,     noble 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+      archer,      prince, giant_skele,       witch,    princess, archr_queen,->,    undead 1,    ranger 1,     noble 1,      clan 1,   brawler 1,   avenger 1
+      archer, dart_goblin,       witch, gob_machine,  skele_king, archr_queen,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,   avenger 1
+      archer,       witch,    princess, royal_ghost, gold_knight, archr_queen,->,    undead 1,    ranger 1,     noble 1,      clan 1,   avenger 1,  assassin 1
+     goblins,  spear_gobs,  skele_drag,   musketeer,    princess, royal_ghost,->,    undead 1,    ranger 1,     noble 1,    goblin 1,   blaster 1,  assassin 1
+     goblins,  spear_gobs,   musketeer,      prince, giant_skele, royal_ghost,->,    undead 1,     noble 1,    goblin 1,   brawler 1,   blaster 1,  assassin 1
+     goblins,  spear_gobs,   musketeer,      prince, mega_knight,      bandit,->,     noble 1,    goblin 1,   brawler 1,   blaster 1,  assassin 1,       ace 1
+     goblins,  spear_gobs,       pekka, executioner,       witch, royal_ghost,->,    undead 1,    goblin 1,   blaster 1,   avenger 1,  assassin 1,       ace 1
+     goblins,  spear_gobs,      prince, executioner, mega_knight, gold_knight,->,     noble 1,    goblin 1,   brawler 1,   blaster 1,  assassin 1,       ace 1
+     goblins,  spear_gobs, giant_skele, executioner, mega_knight, royal_ghost,->,    undead 1,    goblin 1,   brawler 1,   blaster 1,  assassin 1,       ace 1
+     goblins,  barbarians,    valkyrie,      prince, gob_machine, gold_knight,->,     noble 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1,  assassin 1
+     goblins,  barbarians,    valkyrie, giant_skele, royal_ghost, gob_machine,->,    undead 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1,  assassin 1
+     goblins,  barbarians,    valkyrie, mega_knight,      bandit, gob_machine,->,juggernaut 1,    goblin 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+     goblins,  skele_drag,       pekka, dart_goblin,       witch,      bandit,->,    undead 1,    ranger 1,    goblin 1,   avenger 1,  assassin 1,       ace 1
+     goblins,  skele_drag,      prince, giant_skele, dart_goblin, gold_knight,->,    undead 1,    ranger 1,     noble 1,    goblin 1,   brawler 1,  assassin 1
+     goblins,  skele_drag, giant_skele, dart_goblin, mega_knight,      bandit,->,    undead 1,    ranger 1,    goblin 1,   brawler 1,  assassin 1,       ace 1
+     goblins,  skele_drag,    princess, gob_machine,  skele_king, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
+     goblins,   musketeer, dart_goblin, executioner,    princess,      bandit,->,    ranger 1,     noble 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+     goblins,    valkyrie,       pekka,      bandit, gob_machine, archr_queen,->,juggernaut 1,    goblin 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+     goblins,    valkyrie,       witch, royal_ghost, gob_machine, archr_queen,->,    undead 1,juggernaut 1,    goblin 1,      clan 1,   avenger 1,  assassin 1
+     goblins,       pekka,       witch,      bandit, gob_machine,  skele_king,->,    undead 1,juggernaut 1,    goblin 1,   avenger 1,  assassin 1,       ace 1
+     goblins,      prince, giant_skele, dart_goblin,    princess, royal_ghost,->,    undead 1,    ranger 1,     noble 1,    goblin 1,   brawler 1,  assassin 1
+     goblins,      prince, giant_skele, gob_machine,  skele_king, gold_knight,->,    undead 1,     noble 1,juggernaut 1,    goblin 1,   brawler 1,  assassin 1
+     goblins,      prince, dart_goblin,    princess, mega_knight,      bandit,->,    ranger 1,     noble 1,    goblin 1,   brawler 1,  assassin 1,       ace 1
+     goblins, giant_skele, mega_knight,      bandit, gob_machine,  skele_king,->,    undead 1,juggernaut 1,    goblin 1,   brawler 1,  assassin 1,       ace 1
+  spear_gobs,  barbarians,   musketeer,    valkyrie,      prince, gob_machine,->,     noble 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1,   blaster 1
+  spear_gobs,  barbarians,    valkyrie, executioner, mega_knight, gob_machine,->,juggernaut 1,    goblin 1,      clan 1,   brawler 1,   blaster 1,       ace 1
+  spear_gobs,  skele_drag,   musketeer,      prince, giant_skele, dart_goblin,->,    undead 1,    ranger 1,     noble 1,    goblin 1,   brawler 1,   blaster 1
+  spear_gobs,  skele_drag,   musketeer, dart_goblin, royal_ghost, gold_knight,->,    undead 1,    ranger 1,     noble 1,    goblin 1,   blaster 1,  assassin 1
+  spear_gobs,  skele_drag,   musketeer,    princess, gob_machine,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,   blaster 1
+  spear_gobs,  skele_drag,       pekka, dart_goblin, executioner,       witch,->,    undead 1,    ranger 1,    goblin 1,   blaster 1,   avenger 1,       ace 1
+  spear_gobs,  skele_drag, giant_skele, dart_goblin, executioner, mega_knight,->,    undead 1,    ranger 1,    goblin 1,   brawler 1,   blaster 1,       ace 1
+  spear_gobs,  skele_drag, dart_goblin, executioner, royal_ghost,      bandit,->,    undead 1,    ranger 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+  spear_gobs,   musketeer,      prince, giant_skele, gob_machine,  skele_king,->,    undead 1,     noble 1,juggernaut 1,    goblin 1,   brawler 1,   blaster 1
+  spear_gobs,   musketeer, royal_ghost, gob_machine,  skele_king, gold_knight,->,    undead 1,     noble 1,juggernaut 1,    goblin 1,   blaster 1,  assassin 1
+  spear_gobs,    valkyrie,       pekka, executioner, gob_machine, archr_queen,->,juggernaut 1,    goblin 1,      clan 1,   blaster 1,   avenger 1,       ace 1
+  spear_gobs,       pekka, executioner,       witch, gob_machine,  skele_king,->,    undead 1,juggernaut 1,    goblin 1,   blaster 1,   avenger 1,       ace 1
+  spear_gobs,      prince, dart_goblin, executioner,    princess, mega_knight,->,    ranger 1,     noble 1,    goblin 1,   brawler 1,   blaster 1,       ace 1
+  spear_gobs, giant_skele, executioner, mega_knight, gob_machine,  skele_king,->,    undead 1,juggernaut 1,    goblin 1,   brawler 1,   blaster 1,       ace 1
+  spear_gobs, dart_goblin, executioner,    princess,      bandit, gold_knight,->,    ranger 1,     noble 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+  spear_gobs, executioner, royal_ghost,      bandit, gob_machine,  skele_king,->,    undead 1,juggernaut 1,    goblin 1,   blaster 1,  assassin 1,       ace 1
+  barbarians,  skele_drag,    valkyrie,      prince,    princess,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,      clan 1,   brawler 1
+  barbarians,  skele_drag,    valkyrie, giant_skele, dart_goblin, gob_machine,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1
+  barbarians,  skele_drag,      prince,       witch,    princess, archr_queen,->,    undead 1,    ranger 1,     noble 1,      clan 1,   brawler 1,   avenger 1
+  barbarians,   musketeer,       pekka,      prince, executioner, archr_queen,->,     noble 1,      clan 1,   brawler 1,   blaster 1,   avenger 1,       ace 1
+  barbarians,    valkyrie,       pekka,       witch, mega_knight,  skele_king,->,    undead 1,juggernaut 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+  barbarians,    valkyrie,      prince, dart_goblin,    princess, gob_machine,->,    ranger 1,     noble 1,juggernaut 1,    goblin 1,      clan 1,   brawler 1
+  barbarians,    valkyrie,      prince, royal_ghost,  skele_king, gold_knight,->,    undead 1,     noble 1,juggernaut 1,      clan 1,   brawler 1,  assassin 1
+  barbarians,    valkyrie, mega_knight, royal_ghost,      bandit,  skele_king,->,    undead 1,juggernaut 1,      clan 1,   brawler 1,  assassin 1,       ace 1
+  barbarians,       pekka,      prince,      bandit, gold_knight, archr_queen,->,     noble 1,      clan 1,   brawler 1,   avenger 1,  assassin 1,       ace 1
+  barbarians,       pekka, giant_skele, royal_ghost,      bandit, archr_queen,->,    undead 1,      clan 1,   brawler 1,   avenger 1,  assassin 1,       ace 1
+  barbarians,      prince,       witch, royal_ghost, gold_knight, archr_queen,->,    undead 1,     noble 1,      clan 1,   brawler 1,   avenger 1,  assassin 1
+  barbarians,       witch, mega_knight, royal_ghost,      bandit, archr_queen,->,    undead 1,      clan 1,   brawler 1,   avenger 1,  assassin 1,       ace 1
+  skele_drag,   musketeer,       pekka, executioner,       witch,    princess,->,    undead 1,    ranger 1,     noble 1,   blaster 1,   avenger 1,       ace 1
+  skele_drag,   musketeer, giant_skele, executioner,    princess, mega_knight,->,    undead 1,    ranger 1,     noble 1,   brawler 1,   blaster 1,       ace 1
+  skele_drag,   musketeer, executioner,    princess, royal_ghost,      bandit,->,    undead 1,    ranger 1,     noble 1,   blaster 1,  assassin 1,       ace 1
+  skele_drag,    valkyrie, dart_goblin,       witch, gob_machine, archr_queen,->,    undead 1,    ranger 1,juggernaut 1,    goblin 1,      clan 1,   avenger 1
+  skele_drag,       pekka,      prince,       witch,    princess, mega_knight,->,    undead 1,    ranger 1,     noble 1,   brawler 1,   avenger 1,       ace 1
+  skele_drag,       pekka,       witch,    princess,      bandit, gold_knight,->,    undead 1,    ranger 1,     noble 1,   avenger 1,  assassin 1,       ace 1
+  skele_drag,      prince,    princess, mega_knight, royal_ghost,      bandit,->,    undead 1,    ranger 1,     noble 1,   brawler 1,  assassin 1,       ace 1
+  skele_drag, giant_skele,    princess, mega_knight,      bandit, gold_knight,->,    undead 1,    ranger 1,     noble 1,   brawler 1,  assassin 1,       ace 1
+      wizard,       pekka,  elec_giant, executioner, baby_dragon,    e_wizard,->,        mage,        fire,    electric,   blaster 1,   avenger 1,       ace 1
+   musketeer,       pekka,      prince, giant_skele, executioner,       witch,->,    undead 1,     noble 1,   brawler 1,   blaster 1,   avenger 1,       ace 1
+   musketeer,       pekka, executioner,       witch, royal_ghost, gold_knight,->,    undead 1,     noble 1,   blaster 1,   avenger 1,  assassin 1,       ace 1
+   musketeer,      prince, giant_skele, executioner, royal_ghost,      bandit,->,    undead 1,     noble 1,   brawler 1,   blaster 1,  assassin 1,       ace 1
+   musketeer, giant_skele, executioner, mega_knight, royal_ghost, gold_knight,->,    undead 1,     noble 1,   brawler 1,   blaster 1,  assassin 1,       ace 1
+    valkyrie,       pekka, giant_skele, mega_knight,  skele_king, archr_queen,->,    undead 1,juggernaut 1,      clan 1,   brawler 1,   avenger 1,       ace 1
+    valkyrie,       pekka, royal_ghost,      bandit,  skele_king, archr_queen,->,    undead 1,juggernaut 1,      clan 1,   avenger 1,  assassin 1,       ace 1
+       pekka,      prince, giant_skele,       witch,      bandit, gold_knight,->,    undead 1,     noble 1,   brawler 1,   avenger 1,  assassin 1,       ace 1
+       pekka,      prince,       witch, mega_knight, royal_ghost, gold_knight,->,    undead 1,     noble 1,   brawler 1,   avenger 1,  assassin 1,       ace 1
+      prince, giant_skele, dart_goblin,    princess, gob_machine,  skele_king,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,   brawler 1
+ dart_goblin,    princess, royal_ghost, gob_machine,  skele_king, gold_knight,->,    undead 1,    ranger 1,     noble 1,juggernaut 1,    goblin 1,  assassin 1
